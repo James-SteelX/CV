@@ -16,8 +16,15 @@ Being a chef has set me up well for the fast pace environment of web development
 
 ##Dedication
 
-I've had one job for 9 years. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. During the course I myself and a team of 5 other people built a Django/Python web blog in 5 days having had no previous interaction with Python or Django. I also tacked a meteor project for my finally project knowing that Javascript was one of my weaknesses but ended the project with a much better understanding of how Javascript and Meteor work. 
+I've had one job for 9 years. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. During the course I myself and a team of 5 other people built a Django/Python web blog in 5 days having had no previous interaction with Python or Django. I also tacked a meteor project for my finally project knowing that Javascript was one of my weaknesses but ended the project with a much better understanding of how Javascript and Meteor work.
 
+#Projects
+
+|Project       | Technologies      | Team size | Time Taken |
+|--------------|:-----------------:|:---------:|-----------:|
+|Music Mates   | Meteor(Javascript)|     6     | 2 weeks    |
+|Unchained Blog| Django(Python)    |     6     | 1 week     |
+|Makers BNB    | Ruby sinatra      |     4     | 1 week     |
 
 #Education
 ```

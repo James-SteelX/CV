@@ -22,9 +22,9 @@ I've had one job for 9 years. On top of that I have graduated from the toughest 
 
 |Project       | Technologies      | Team size | Time Taken |
 |--------------|:-----------------:|:---------:|-----------:|
-|Music Mates   | Meteor(Javascript)|     6     | 2 weeks    |
-|Unchained Blog| Django(Python)    |     6     | 1 week     |
-|Makers BNB    | Ruby sinatra      |     4     | 1 week     |
+|[Music Mates](https://github.com/Tomy8s/music_mates)   | Meteor(Javascript)|     6     | 2 weeks    |
+|[Unchained Blog](https://github.com/Swinston88/unchained_blog)| Django(Python)    |     6     | 1 week     |
+|[Makers BNB](https://github.com/James-SteelX/makersbnb)    | Ruby sinatra      |     4     | 1 week     |
 
 #Education
 ```

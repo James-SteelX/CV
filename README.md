@@ -14,11 +14,11 @@ Having been a chef for 9 years i'm very used to working as part of team, deliver
 
 ##Patience
 
-Being a chef has set me up well for the fast pace environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods. 
+Being a chef has set me up well for the fast pace environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods.
 
 ##Dedication
 
-I've had one job for 9 years, working my way up from the bottom to sous chef. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. During the course I myself and a team of 5 other people built a Django/Python web blog in 5 days having had no previous interaction with Python or Django. I also tacked a meteor project for my finally project knowing that Javascript was one of my weaknesses but ended the project with a much better understanding of how Javascript and Meteor work.
+I've had one job for 9 years, working my way up from the bottom to sous chef. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. For my final project I decided to use the Meteor framework as I felt Javascript was one of my biggest weaknesses and I was determined to get a better understanding of the language.  
 
 #Projects
 

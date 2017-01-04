@@ -24,7 +24,7 @@ I've had one job for 9 years. On top of that I have graduated from the toughest 
 |--------------|:-----------------:|:---------:|-----------:|
 |[Music Mates](https://github.com/Tomy8s/music_mates)   | Meteor(Javascript)|     6     | 2 weeks    |
 |[Unchained Blog](https://github.com/Swinston88/unchained_blog)| Django(Python)    |     6     | 1 week     |
-|[Makers BNB](https://github.com/James-SteelX/makersbnb)    | Ruby sinatra      |     4     | 1 week     |
+|[Makers BNB](https://github.com/James-SteelX/makersbnb)    | Ruby Sinatra      |     4     | 1 week     |
 
 #Education
 ```
@@ -34,10 +34,12 @@ Makers Academy (09/16 to 12/16)
 - Test Driven development
 - Object Oriented Design
 - Ruby and Ruby on Rails
-- Javascript, Jquery and Meteor
-- Python and Django
+- Javascript and Jquery
 ```
 
 #Interests
 
-Cooking, Fashion and street-wear, Sport
+* Cooking (I make a mean chilli)
+* Trainers (Although I can't say I'm a big fan of running though)
+* Cars (I'm a keen amateur mechanic and in the past i've built an Audi engined VW golf and helped in the restoration of a 1970s Beetle.)
+* Travel (specifically to watch football, I went to Dortmund to watch the Ruhr Derby which was incredible and was out in Lille for the Euros.)

@@ -2,7 +2,7 @@
 
 Former sous chef turned junior software developer looking for a technical role in an agile environment.
 
-I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to get me ready for a job as a junior web developer. We were taught to be 'language agnostic' so i'm comfortable picking up new programming languages quickly, for example In less than a week in a small team we created a small blogging platform on the Django/Python framework having had no previous experience with Python. I am well versed in agile methodologies and SOLID principals. 
+I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to get me ready for a job as a junior web developer. We were taught to be 'language agnostic' so i'm comfortable picking up new programming languages quickly, for example In less than a week in a small team we created a small blogging platform on the Django/Python framework having had no previous experience with Python. I am well versed in agile methodologies and SOLID principals.
 
 #Skills
 
@@ -14,11 +14,11 @@ Having been a chef for 9 years i'm very used to working as part of team, deliver
 
 ##Patience
 
-Being a chef has set me up well for the fast pace environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods.  
+Being a chef has set me up well for the fast pace environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods. 
 
 ##Dedication
 
-I've had one job for 9 years. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. During the course I myself and a team of 5 other people built a Django/Python web blog in 5 days having had no previous interaction with Python or Django. I also tacked a meteor project for my finally project knowing that Javascript was one of my weaknesses but ended the project with a much better understanding of how Javascript and Meteor work.
+I've had one job for 9 years, working my way up from the bottom to sous chef. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. During the course I myself and a team of 5 other people built a Django/Python web blog in 5 days having had no previous interaction with Python or Django. I also tacked a meteor project for my finally project knowing that Javascript was one of my weaknesses but ended the project with a much better understanding of how Javascript and Meteor work.
 
 #Projects
 

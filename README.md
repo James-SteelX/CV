@@ -1,10 +1,12 @@
 # James Steel
-Full stack junior developer
 
-Former Sous Chef and a recent graduate of Europes number one web developer bootcamp, Makers Academy Remote. I am looking for a full stack junior developer role where I can continue to push myself and further my learning. I decided on a career change after I realised I was more interested on the process of cooking and working out why I'm doing certain things rather than necessarily the end product. I'm ideally looking for a backend role where I can get into some really interesting projects.
+Former sous chef turned junior software developer looking for a technical role in an agile environment.
 
+I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to get me ready for a job as a junior web developer. We were taught to be 'language agnostic' so i'm comfortable picking up new programming languages quickly, for example In less than a week in a small team we created a small blogging platform on the Django/Python framework having had no previous experience with Python. I am well versed in agile methodologies and SOLID principals. 
 
 #Skills
+
+While my background isn't tech in any way, I believe I have gained many valuable skills that I can transfer and adapt to a role as a junior web developer.
 
 ##Team Player
 
@@ -24,7 +26,7 @@ Individual
 
 |Project        | Technologies      | Time Taken |
 |-------------- |:-----------------:|-----------:|
-|Instagram Clone| Ruby, Sinatra, PSQL | 2 days
+|Instagram Clone| Ruby, Sinatra, PSQL | 2 days   |
 
 Group
 
@@ -35,7 +37,7 @@ Group
 |[Makers BNB](https://github.com/James-SteelX/makersbnb)    | Ruby Sinatra      |     4     | 1 week     |
 
 #Education
-```
+
 Makers Academy (09/16 to 12/16)
 
 - Pair Programming
@@ -43,7 +45,12 @@ Makers Academy (09/16 to 12/16)
 - Object Oriented Design
 - Ruby and Ruby on Rails
 - Javascript and Jquery
-```
+
+
+#Work experience
+
+New Inn, Heckfield (2007 - present)
+Sous Chef. Responsible for a small team, maintaining a high level of productivity in the absence of the head chef.
 
 #Interests
 

@@ -2,7 +2,7 @@
 
 Former sous chef turned junior software developer looking for a technical role in an agile environment.
 
-I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to prepare me for a job as a junior web developer. We were taught to be 'language agnostic', so I am comfortable picking up new programming languages quickly. For example, in less than a week in a small team we created a basic blogging platform using the Django/Python framework having had no previous experience with Python. I am also well versed in agile methodologies and SOLID principals.
+I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to prepare me for a job as a junior web developer. We were taught to be 'language agnostic', so I am comfortable picking up new programming languages quickly. For example, in a small team we created a basic blogging platform using the Django/Python framework in less than a week and having had no previous experience with Python. I am also well versed in agile methodologies and SOLID principals.
 
 #Skills
 
@@ -10,15 +10,16 @@ Through previous work and Makers Academy, I have gained many valuable skills tha
 
 ###Team Player
 
-Having been a chef for 9 years I am very used to working as part of team, delivering a high quality product on time and communicating with my peers. Being a Sous Chef for the past 3 years has also given me experience leading a team in a high pressure environment as well as delegating tasks and managing work load.
+Having been a chef for 9 years I am very used to working as part of team, delivering a high quality product on time and communicating with my peers. Being a Sous Chef for the past 3 years has also given me experience leading a team in a high pressure environment as well as delegating tasks and managing work load. I have also been given the responsibility of training new members of staff and supervising their work.  
 
 ###Patience
 
-Being a chef has set me up well for the fast paced environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods.
+My work as a chef has set me up well for the fast paced environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and remain focused, even during the busiest periods.
 
 ###Dedication
 
-I've had one job for 9 years, working my way up from the bottom to sous chef. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. For my final project I decided to use the Meteor framework as I felt Javascript was one of my biggest weaknesses and I was determined to get a better understanding of the language.  
+I have had one job for nine years, working my way up from the bottom to sous chef. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. For my final project I decided to use the Meteor framework, as I wanted to gain more experience using Javascript. This project has given me a better understanding of the language and more confidence in my ability to use it.
+
 
 #Projects
 
@@ -45,6 +46,7 @@ Makers Academy (09/16 to 12/16)
 - Object Oriented Design
 - Ruby and Ruby on Rails
 - Javascript and Jquery
+- SQL
 
 
 #Work experience

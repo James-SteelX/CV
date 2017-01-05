@@ -8,15 +8,15 @@ I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 
 
 While my background isn't tech in any way, I believe I have gained many valuable skills that I can transfer and adapt to a role as a junior web developer.
 
-##Team Player
+###Team Player
 
 Having been a chef for 9 years i'm very used to working as part of team, delivering a high quality product on time and communicating with my peers. Also being a Sous Chef for the past 3 years has given me experience leading a team in a high pressure environment as well as delegating tasks and managing work load.
 
-##Patience
+###Patience
 
-Being a chef has set me up well for the fast pace environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods.
+Being a chef has set me up well for the fast paced environment of web development. Working under intense pressure is second nature to me, and I have often been praised for my ability to keep a level head and on task even during the busiest periods.
 
-##Dedication
+###Dedication
 
 I've had one job for 9 years, working my way up from the bottom to sous chef. On top of that I have graduated from the toughest and most exclusive developer bootcamp in Europe, which required me to forget everything else in life and completely dedicate myself to learning for 12 weeks. For my final project I decided to use the Meteor framework as I felt Javascript was one of my biggest weaknesses and I was determined to get a better understanding of the language.  
 

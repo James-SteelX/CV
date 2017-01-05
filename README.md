@@ -2,15 +2,15 @@
 
 Former sous chef turned junior software developer looking for a technical role in an agile environment.
 
-I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to get me ready for a job as a junior web developer. We were taught to be 'language agnostic' so i'm comfortable picking up new programming languages quickly, for example In less than a week in a small team we created a small blogging platform on the Django/Python framework having had no previous experience with Python. I am well versed in agile methodologies and SOLID principals.
+I am a recent graduate of [Makers Academy](http://www.makersacademy.com/), a 12 week intensive course designed to prepare me for a job as a junior web developer. We were taught to be 'language agnostic', so I am comfortable picking up new programming languages quickly. For example, in less than a week in a small team we created a basic blogging platform using the Django/Python framework having had no previous experience with Python. I am also well versed in agile methodologies and SOLID principals.
 
 #Skills
 
-While my background isn't tech in any way, I believe I have gained many valuable skills that I can transfer and adapt to a role as a junior web developer.
+Through previous work and Makers Academy, I have gained many valuable skills that I can transfer and adapt to a role as a junior web developer.
 
 ###Team Player
 
-Having been a chef for 9 years i'm very used to working as part of team, delivering a high quality product on time and communicating with my peers. Also being a Sous Chef for the past 3 years has given me experience leading a team in a high pressure environment as well as delegating tasks and managing work load.
+Having been a chef for 9 years I am very used to working as part of team, delivering a high quality product on time and communicating with my peers. Being a Sous Chef for the past 3 years has also given me experience leading a team in a high pressure environment as well as delegating tasks and managing work load.
 
 ###Patience
 
